@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MossAndSonHoldings/static/css/main.a74463b0.chunk.css",
+    "main.js": "/MossAndSonHoldings/static/js/main.7666e23f.chunk.js",
+    "main.js.map": "/MossAndSonHoldings/static/js/main.7666e23f.chunk.js.map",
+    "runtime~main.js": "/MossAndSonHoldings/static/js/runtime~main.e0d80483.js",
+    "runtime~main.js.map": "/MossAndSonHoldings/static/js/runtime~main.e0d80483.js.map",
+    "static/js/2.10b10b2b.chunk.js": "/MossAndSonHoldings/static/js/2.10b10b2b.chunk.js",
+    "static/js/2.10b10b2b.chunk.js.map": "/MossAndSonHoldings/static/js/2.10b10b2b.chunk.js.map",
+    "index.html": "/MossAndSonHoldings/index.html",
+    "precache-manifest.255bdf7dabbbba2f464c6fa942f105a4.js": "/MossAndSonHoldings/precache-manifest.255bdf7dabbbba2f464c6fa942f105a4.js",
+    "service-worker.js": "/MossAndSonHoldings/service-worker.js",
+    "static/css/main.a74463b0.chunk.css.map": "/MossAndSonHoldings/static/css/main.a74463b0.chunk.css.map",
+    "static/media/agency.min.css": "/MossAndSonHoldings/static/media/map-image.f40ed5b1.png"
+  }
+}
